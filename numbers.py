@@ -11,7 +11,7 @@ elif op == "/":
 elif op == "*":
     print(num1 * num2)
 else:
-    print("invalid oporator")
+    print("invalid operator")
 
 input("press enter to close")
 

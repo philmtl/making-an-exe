@@ -1,5 +1,0 @@
-to make a exe, install pyinstaller
-
-cd to directory of file
-
-pyinstaller --onefile <your_script_name>.py

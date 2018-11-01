@@ -1,2 +1,2 @@
 # making-an-exe
-convert .py file into ex with pyinstaller
+convert .py file into exe with pyinstaller
